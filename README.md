@@ -3,4 +3,4 @@
 .
 .
 
-<h1>LINK : https://cbisddsmabnormalityclassifcation.streamlit.app/</h1>
+<h1>LINK : https://huggingface.co/spaces/Pranavadhar/CBIS_ABNORMALITY</h1>
